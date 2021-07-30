@@ -1,5 +1,7 @@
 <h2>LUDO GAME IN PYTHON</h2><br/>
 <br/>
+run python Ludo-game.py
+<br/>
 <strong>...................RULES OF GAMEPLAY................</strong><br/>
 <br/>
 <ul>
