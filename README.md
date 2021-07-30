@@ -1,6 +1,6 @@
 <h2>LUDO GAME IN PYTHON</h2><br/>
 <br/>
-run python Ludo-game.py
+run python Ludo-game.py<br/>
 <br/>
 <strong>...................RULES OF GAMEPLAY................</strong><br/>
 <br/>
